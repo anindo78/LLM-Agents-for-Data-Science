@@ -1,6 +1,6 @@
 ### The local agent was based on:
 
-[title](https://www.freecodecamp.org/news/build-a-local-ai/)
+[Chaitanya Rahalkar on FreeCodeCamp](https://www.freecodecamp.org/news/build-a-local-ai/)
 
 an excellent artcile on FreeCodeCamp by Chaitanya Rahalkar. All credit for this repo goes to him!
 Contents:
